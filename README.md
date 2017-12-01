@@ -1,1 +1,1 @@
-# strata_ny_2017_recommender_tutorial
+# Strata SG 2017 Recommender Tutorial
